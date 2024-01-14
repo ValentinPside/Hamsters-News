@@ -1,0 +1,2 @@
+# Hamsters-News
+GridLayoutManager traning
